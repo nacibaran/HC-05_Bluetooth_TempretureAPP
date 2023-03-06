@@ -1,8 +1,12 @@
-# HC-05_Bluetooth_TempretureAPP
+# HC-05_Bluetooth_TempretureAPP-Java
 
 Linkedin = nacibaran
 İnstagram= naci.baran
 E-Mail = naci.baran1903@gmail.com
+
+// My project is created in java
+
+
 
 
 // ARDUİNO - ANDROİD CONNECTİON . 
