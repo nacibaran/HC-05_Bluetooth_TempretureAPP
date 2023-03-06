@@ -6,8 +6,7 @@ E-Mail = naci.baran1903@gmail.com
 
 // My project is created in java
 
-
-
+system.out.println("Hello everyone")
 
 // ARDUİNO - ANDROİD CONNECTİON . 
 
